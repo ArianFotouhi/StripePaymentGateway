@@ -1,6 +1,7 @@
 # Stripe Payment Gateway
 
-![Result 1](./asset/demo.gif)
+<iframe width="560" height="315" src="./asset/demo_file.mp4" frameborder="0" allowfullscreen></iframe>
+
 
 <p>Stripe is a popular payment processing platform that allows businesses and individuals to accept payments over the internet. It provides a set of APIs and tools that enable developers to integrate payment processing into websites and mobile applications easily.
 </p>

@@ -1,6 +1,6 @@
 # Stripe Payment Gateway
 <img src="./asset/image0.jpg" alt="result1" width = 500>
-<img src="./asset/image0.jpg" alt="result2" width = 500>
+<img src="./asset/image1.jpg" alt="result2" width = 500>
 
 <img src="./asset/demo_file.gif" alt="result2" width = 500>
 
